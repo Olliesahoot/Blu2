@@ -45,7 +45,7 @@ Command line params that need to be supported are
     --output.result value          (default: "result.json")
     --state.chainid value          (default: 1)
     --state.fork value             (default: "GrayGlacier")
-    --state.reward value           (default: 0)
+    --state.reward value           (default: 1)
     --trace.memory                 (default: false)
     --trace.nomemory               (default: true)
     --trace.noreturndata           (default: true)
